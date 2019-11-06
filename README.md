@@ -3,10 +3,7 @@
 [![GitHub license](https://img.shields.io/github/license/joytou/Drawer)](https://github.com/joytou/Drawer/blob/master/LICENSE)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/joytou/Drawer)
 ![GitHub repo size](https://img.shields.io/github/repo-size/joytou/Drawer)
-<<<<<<< HEAD
 ![GitHub Release Date](https://img.shields.io/github/release-date/joytou/Drawer)
-=======
->>>>>>> 86f4646e27a7259b55d6f73787e0545a3a882301
 
 ## 概述
 Drawer是一款基于JQuery+AJAX+PHP三者相结合的PHP文件管理器，简洁、快速、高效率。Drawer is a PHP file manager based on JQuery+AJAX+PHP, which is simple, fast and efficient.
