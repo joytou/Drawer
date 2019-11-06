@@ -16,6 +16,17 @@ Drawer是一款基于JQuery+AJAX+PHP三者相结合的PHP文件管理器，简�
 10. 在线播放音视频
 
 ## 使用截图
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo01.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo01.png)
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo02.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo02.png)
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo03.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo03.png)
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo04.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo04.png)
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo05.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo05.png)
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo06.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo06.png)
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo07.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo07.png)
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo08.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo08.png)
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo09.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo09.png)
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo10.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo10.png)
+![https://github.com/joytou/Drawer/raw/master/Screenshot/demo11.png](https://github.com/joytou/Drawer/raw/master/Screenshot/demo11.png)
 
 ## 在线下载
 __版本：1.0.0.1__  [下载](https://github.com/joytou/Drawer/archive/master.zip) 
