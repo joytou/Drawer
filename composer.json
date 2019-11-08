@@ -1,0 +1,17 @@
+{
+    "name": "joytou/drawer",
+    "description": "Drawer is a PHP file manager based on JQuery+AJAX+PHP, which is simple,fast, and efficientt.",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "joytou",
+            "email": "1540294142@qq.com"
+        }
+    ],
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"joytou\\drawer\\": "src/"
+		}
+	}
+}
